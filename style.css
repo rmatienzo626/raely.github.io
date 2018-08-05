@@ -1,0 +1,26 @@
+.row{   
+
+    background-color:#AF7AC5;
+    color: #4E34C6;
+    font-size:20px;
+    display: flex;
+    text-align: center;
+    
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:#4E34C6;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Satisfy', cursive;
+
+}
+.aboutme{
+    border:1px solid black;   
+}
